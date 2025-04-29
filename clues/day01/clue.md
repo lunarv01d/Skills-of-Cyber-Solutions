@@ -13,7 +13,8 @@ There are multiple Ciphers with Caesar as part of the name. It is one of two mos
 
 ### 🔹 Second Clue
 
-Releases on 4/29
+Think about shifting each letter by a set number of spaces.
+(Tip: shifts can go **forward** or **backward**. ~~Almost like the letters are in a **box**~~.)
 
 ---
 
