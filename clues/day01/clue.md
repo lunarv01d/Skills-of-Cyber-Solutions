@@ -1,6 +1,7 @@
-# 🧩 Day [01] Clue- [Caesar was not just a King!]
+# 🧩 Day 01 Clue- [Caesar was not just a King!]
 
-Still stuck? That's okay — real cybersecurity often takes multiple attempts!
+Still stuck? That's okay,
+
 Here's a nudge to help you think differently:
 
 ---
